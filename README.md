@@ -1,2 +1,2 @@
 # animal_phys
-Data visualizations for lab projects
+Data visualizations for UCSD Animal Physiology Lab - BIPN105
